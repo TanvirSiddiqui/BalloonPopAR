@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">575916995764</string>
+  <string name="google_storage_bucket" translatable="false">argeospecialrd.appspot.com</string>
+  <string name="project_id" translatable="false">argeospecialrd</string>
+  <string name="google_api_key" translatable="false">AIzaSyDjzIg1DaBmDYWjgy32OC7QjFgZMRe_zc4</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDjzIg1DaBmDYWjgy32OC7QjFgZMRe_zc4</string>
+  <string name="google_app_id" translatable="false">1:575916995764:android:ec977f5e21869fd3cf93e1</string>
+  <string name="default_web_client_id" translatable="false">575916995764-9ti5vn20f762sagua2p7mgio9sdl7hcs.apps.googleusercontent.com</string>
+</resources>
